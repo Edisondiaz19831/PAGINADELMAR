@@ -1,0 +1,71 @@
+.navbar-brand img {
+    width: 300px;
+}
+#contPrueba{
+    height: 600px;
+}
+
+.menuW{
+    position: fixed;
+    z-index: 900;
+    width: 100%;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+#carouseHeaderCaptions{
+
+    padding-top: 76px;
+}
+
+.carousel-item .captionMove{
+    top: 45%;
+}
+
+.carousel-item .captionMove h5{
+    font-size: 50px;
+}
+    #welcome{
+        padding: 120px 0;
+        width: 75%;
+        
+    }
+    
+    #welcome .contInfo {
+       padding-top: 8% ;
+       text-align: justify;
+     
+    }
+    #services{
+        padding: 50px 0;
+        background: url(../image/3.png);
+        background-size: cover;
+    
+        
+    }
+    
+    #services{
+    
+       color: #1c1212;
+       margin-bottom: 60px;
+    }
+    
+    #services .card-servicios{
+        border: 2px solid #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        max-width: 300px;
+        margin: 20px auto;
+        background: #00000051;
+    }
+    #services .card-servicios i{
+        font-size: 50px;
+       
+    }
+    
+    
+    
+    
+    
